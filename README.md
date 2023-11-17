@@ -4,7 +4,7 @@
 
 Clone o repositorio em sua maquina e execute no terminal dentro do diretorio:
 
-python3 chat.py
+`python3 chat.py`
 
 Para sair digite sair no terminal.
 
